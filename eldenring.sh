@@ -21,7 +21,7 @@ fi
 
 sleep 2
 
-echo "Boss battle. 0-9. (0/1)"
+echo "Boss battle. 0-9. (0/9)"
 
 read tranished
 
